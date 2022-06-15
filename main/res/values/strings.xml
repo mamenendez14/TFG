@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AppBirthday</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_add">Añadir</string>
+    <string name="title_list">Listado</string>
+    <string name="title_modify">Modificar</string>
+
+    //Add Fragment
+    <string name="tvName">Nombre:</string>
+    <string name="etName">Escribe aquí...</string>
+    <string name="tvBirthday">Fecha de nacimiento:</string>
+    <string name="tvDate">Pulse el botón para elegir una fecha.</string>
+    <string name="btnDate">ELEGIR</string>
+    <string name="btnAdd">Añadir</string>
+    //Home Fragment
+    <string name="tvNext">Bievenido a AppBirthday =)</string>
+    <string name="tvFirst">Inserta tu primer registro para comenzar!</string>
+    <string name="tvDays"></string>
+    <string name="btnFirst">Empezar</string>
+    //Modified Fragment
+    <string name="btnSearch">Buscar</string>
+    <string name="btnModify">Modificar</string>
+    <string name="btnDelete">Borrar</string>
+    <string name="tvId">ID:</string>
+    <string name="etId">ID</string>
+    <string name="etNameModified">Nombre</string>
+    <string name="etBirthdayModified">Fecha</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_delete">¿Está seguro que desea borrar el registro?</string>
+    <string name="dialog_modify">¿Está seguro que desea modificar el registro?</string>
+    <string name="dialog_title">Advertencia</string>
+    <string name="dialog_delete_confirm">El registro se ha borrado correctamente</string>
+    <string name="dialog_modify_confirm">El registro se ha modificado correctamente</string>
+    <string name="error_name_size">El nombre debe tener un máximo de 16 carácteres</string>
+</resources>
